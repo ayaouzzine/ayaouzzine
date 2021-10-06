@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayaouzzine
 - 👀 Currently, I'm an ENSIMAG student !
-- 💞️ I’m interested about software engineering
+- 💞️ I’m interested in software engineering
 - 📫 You can reach me at ayaouzzine1@gmail.com
 
 <!---
